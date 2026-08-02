@@ -1,15 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,24&height=180&text=Hello%20Jisu%20World%20!&desc=Backend%20Developer&descAlignY=58&fontColor=ffffff&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,24&height=200&text=Hello%20Jisu%20World%20!&fontColor=ffffff&fontSize=50&fontAlignY=38" />
 </div>
 
 <div align="center">
 
-<!-- 타이핑 애니메이션 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=69E2CE&center=true&vCenter=true&width=520&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%A7%80%EC%88%98%EC%9E%85%EB%8B%88%EB%8B%A4;%EA%B2%AC%EA%B3%A0%ED%95%9C+%EC%84%9C%EB%B2%84%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;Always+Learning+%F0%9F%9A%80" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=js1211-code&label=Profile%20Views&color=69e2ce&style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=69E2CE&center=true&vCenter=true&width=520&lines=Backend+Developer;%EA%B2%AC%EA%B3%A0%ED%95%9C+%EC%84%9C%EB%B2%84%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
@@ -19,12 +14,24 @@
 
 <div align="center">
 
+**보이지 않는 곳을 단단하게 만드는 일을 좋아합니다.**
+
+화면 뒤에서 데이터가 안전하게 흐르고, 요청이 정확한 응답으로 돌아오는 구조를 설계합니다.<br>
+"돌아가는 코드"보다 **6개월 뒤의 내가 읽어도 이해되는 코드**를 목표로 합니다.
+
+</div>
+
+<br>
+
+<div align="center">
+
 |  |  |
-|:---|:---|
-| 💻 **Focus** | 백엔드 · 서버 아키텍처 · 데이터베이스 설계 |
-| 🌱 **Learning** | 여기에 지금 공부 중인 것을 적어주세요 |
-| 🎯 **Goal 2026** | 여기에 올해 목표를 적어주세요 |
-| ⚡ **Fun fact** | 여기에 소소한 한 줄을 적어주세요 |
+|:---:|:---|
+| 💻 **Focus** | 서버 아키텍처 · API 설계 · 데이터베이스 모델링 |
+| 🔭 **Working on** | 자기 관리 커뮤니티 서비스 백엔드 개발 |
+| 🌱 **Learning** | 클라우드 인프라와 배포 자동화 |
+| 🤝 **Interest** | 기술로 일상의 불편을 줄이는 서비스, 그리고 팀으로 만드는 제품 |
+| ⚡ **Motto** | 일단 만들고, 부딪히고, 다시 고친다 |
 
 </div>
 
@@ -45,18 +52,33 @@
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white">
 
 **Database**
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 
 **Tools**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+
+</div>
+
+<br>
+
+## 📌 Projects
+
+<div align="center">
+
+| 프로젝트 | 소개 | 상태 |
+|:---|:---|:---:|
+| 🍚 **미스터대박** | 배달 및 주문 웹 서비스 | ✅ |
+| 🌏 **가온** | 다문화가정을 돕는 AI Agent | ✅ |
+| 💕 **SAI** | 데이트 장소 및 코스 추천 서비스 | ✅ |
+| 🌱 **자기 관리 커뮤니티** | 습관과 목표를 함께 만들어가는 공간 | 🚧 |
 
 </div>
 
@@ -75,39 +97,7 @@
 
 <br><br>
 
-<!-- 잔디 그래프 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=js1211-code&hide_border=true&bg_color=00000000&color=69e2ce&line=69e2ce&point=ffffff&area=true&area_color=69e2ce" />
-
-<br>
-
-<!-- 백준 티어 (백준 아이디로 바꾸거나 이 줄을 지우세요) -->
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=BOJ_ID" height="150" />
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=js1211-code&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br>
-
-## 📌 Projects
-
-<div align="center">
-
-<!-- 아래 REPO_NAME 을 본인 저장소 이름으로 바꾸면 카드가 뜹니다 -->
-<a href="https://github.com/js1211-code/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=js1211-code&repo=REPO_NAME&hide_border=true&title_color=69e2ce&text_color=768390&bg_color=00000000" />
-</a>
-<a href="https://github.com/js1211-code/REPO_NAME2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=js1211-code&repo=REPO_NAME2&hide_border=true&title_color=69e2ce&text_color=768390&bg_color=00000000" />
-</a>
 
 </div>
 
@@ -120,11 +110,8 @@
 <a href="mailto:monkeysu1211@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://velog.io/@VELOG_ID">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/LINKEDIN_ID">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+<a href="https://TISTORY_ID.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />
 </a>
 
 </div>

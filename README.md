@@ -93,11 +93,6 @@
 
 <br><br>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=js1211-code&theme=transparent" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=js1211-code&theme=transparent" />
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=js1211-code&hide_border=true&bg_color=00000000&color=69e2ce&line=69e2ce&point=ffffff&area=true&area_color=69e2ce" />
 
 </div>

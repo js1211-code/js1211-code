@@ -17,7 +17,6 @@
 **보이지 않는 곳을 단단하게 만드는 일을 좋아합니다.**
 
 화면 뒤에서 데이터가 안전하게 흐르고, 요청이 정확한 응답으로 돌아오는 구조를 설계합니다.<br>
-"돌아가는 코드"보다 **6개월 뒤의 내가 읽어도 이해되는 코드**를 목표로 합니다.
 
 </div>
 
@@ -26,7 +25,6 @@
 <div align="center">
 
 |  |  |
-|:---:|:---|
 | 💻 **Focus** | 서버 아키텍처 · API 설계 · 데이터베이스 모델링 |
 | 🔭 **Working on** | 자기 관리 커뮤니티 서비스 백엔드 개발 |
 | 🌱 **Learning** | 클라우드 인프라와 배포 자동화 |
@@ -93,10 +91,6 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=js1211-code&hide_border=true&background=00000000&stroke=69e2ce&ring=69e2ce&fire=69e2ce&currStreakLabel=69e2ce&sideNums=768390&dates=768390" />
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=js1211-code&hide_border=true&bg_color=00000000&color=69e2ce&line=69e2ce&point=ffffff&area=true&area_color=69e2ce" />
 
 </div>
@@ -110,7 +104,7 @@
 <a href="mailto:monkeysu1211@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://TISTORY_ID.tistory.com">
+<a href="https://tang1211.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />
 </a>
 

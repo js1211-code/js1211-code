@@ -88,8 +88,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=js1211-code&show_icons=true&hide_border=true&title_color=69e2ce&icon_color=69e2ce&text_color=768390&bg_color=00000000&include_all_commits=true&hide=issues" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=js1211-code&layout=compact&hide_border=true&title_color=69e2ce&text_color=768390&bg_color=00000000&langs_count=6" />
+<img src="https://img.shields.io/github/followers/js1211-code?style=for-the-badge&logo=github&label=Followers&labelColor=282d33&color=69e2ce" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjs1211-code&query=%24.public_repos&style=for-the-badge&logo=github&label=Repositories&labelColor=282d33&color=69e2ce" />
+
+<br><br>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=js1211-code&theme=transparent" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=js1211-code&theme=transparent" />
 
 <br><br>
 
